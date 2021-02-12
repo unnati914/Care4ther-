@@ -37,6 +37,8 @@ Through this method, the HRNN incorporates a time-dependent aspect of the frames
 To prevent accidents , this is the app that can tell the location of the accident and it could prevent the accidents.
 
 *FEATURES OF THE APP*
+
+
 The app is made using Java language, various features are being added in the app like.. alert system for an accident,sensors,etc
 
 Try implementing this project and suggest changes:)
