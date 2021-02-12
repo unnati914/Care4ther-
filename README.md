@@ -5,10 +5,13 @@ CARE4THER APP USING ML AND ANDROID
 
 Nearly 80% of accidents take place yearly . this piece of code will help the users to detect an accident an a early stage and it is detected by different libraries like Deep learning etc.
 Code Requirements
+
 You can install Conda for python which resolves all the dependencies for machine learning.
 
 pip install requirements.txt
 Procedure
+
+
 Run create_dataset.py for converting the video to images.
 Then run main.py to train the model.
 Finally, run model.py for testing your model.
