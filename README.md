@@ -21,6 +21,8 @@ Through this method, the HRNN incorporates a time-dependent aspect of the frames
 
 
 *VARIOUS TECHNOLOGIES USED IN THE PROJECT*
+
+
 1. DEEP LEARNING
 2. MACHINE LEARNING
 3. ANDROID
@@ -28,6 +30,7 @@ Through this method, the HRNN incorporates a time-dependent aspect of the frames
 5. CNN
 
 *Why this project is important*
+
 To prevent accidents , this is the app that can tell the location of the accident and it could prevent the accidents.
 
 *FEATURES OF THE APP*
