@@ -1,17 +1,11 @@
-CARE4THER APP USING ML AND ANDROID 
+# CARE4THER APP USING ML AND ANDROID 
+Nearly 80% of accidents take place yearly. This piece of code will help the users to detect an accident an a early stage and it is detected by different libraries like Deep learning etc.
 
-
-
-
-Nearly 80% of accidents take place yearly . this piece of code will help the users to detect an accident an a early stage and it is detected by different libraries like Deep learning etc.
-Code Requirements
-
+# Code Requirements
 You can install Conda for python which resolves all the dependencies for machine learning.
-
 pip install requirements.txt
-Procedure
 
-
+# Procedure
 Run create_dataset.py for converting the video to images.
 Then run main.py to train the model.
 Finally, run model.py for testing your model.
@@ -23,7 +17,7 @@ The algorithm uses two layers of long short-term memory neural networks. The fir
 Through this method, the HRNN incorporates a time-dependent aspect of the frames within each video to predict how likely it is a new video contains a car accident.
 
 
-*VARIOUS TECHNOLOGIES USED IN THE PROJECT*
+# *VARIOUS TECHNOLOGIES USED IN THE PROJECT*
 
 
 1. DEEP LEARNING
@@ -32,13 +26,10 @@ Through this method, the HRNN incorporates a time-dependent aspect of the frames
 4. JAVA
 5. CNN
 
-*Why this project is important*
-
+# *Why this project is important*
 To prevent accidents , this is the app that can tell the location of the accident and it could prevent the accidents.
 
-*FEATURES OF THE APP*
-
-
+# *FEATURES OF THE APP*
 The app is made using Java language, various features are being added in the app like.. alert system for an accident,sensors,etc
 
 Try implementing this project and suggest changes:)
