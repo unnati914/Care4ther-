@@ -37,6 +37,14 @@ Through this method, the HRNN incorporates a time-dependent aspect of the frames
 To prevent accidents , this is the app that can tell the location of the accident and it could prevent the accidents.
 
 
+*FEATURES OF THE APP*
+
+
+The app is made using Java language, various features are being added in the app like.. alert system for an accident,sensors,etc
+
+Try implementing this project and suggest changes:)
+Happy Learning!
+
 ## Roadmap
  - [ ] Integrate ML model into app.
  - [ ] Create App Design.
@@ -127,13 +135,3 @@ Please try to follow the mentioned guidelines while before submitting your code 
  * While naming the layout files, ensure that the convention followed is (activity/fragment) _ (name).xml like ```activity_main.xml``` , ```fragment_user_location.xml``` .
  * * The activity/fragment file name corresponding to the layout files should be named as                       (activity/fragment name)(activity/fragment).java like ```UserLocationActivity.java``` corresponding to the layout file ```activity_user_location.xml``` , ```UserLocationFragment.java``` corresponding to the layout file ```fragment_user_location.xml``` .
  * Name the views and widgets defined in the layout files as (viewtype/widget) _ (name) _ (no. in the file if any) like  ```button_save``` , ```editText_user_location``` .
-
-
-
-*FEATURES OF THE APP*
-
-
-The app is made using Java language, various features are being added in the app like.. alert system for an accident,sensors,etc
-
-Try implementing this project and suggest changes:)
-Happy Learning!
