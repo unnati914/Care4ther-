@@ -1,20 +1,17 @@
-CARE4THER APP USING ML AND ANDROID 
-
-
-
+# CARE4THER APP USING ML AND ANDROID 
 
 Nearly 80% of accidents take place yearly . this piece of code will help the users to detect an accident an a early stage and it is detected by different libraries like Deep learning etc.
-Code Requirements
+
+## Code Requirements
 
 You can install Conda for python which resolves all the dependencies for machine learning.
 
 pip install requirements.txt
-Procedure
+## Procedure
+* Run create_dataset.py for converting the video to images.
+* Then run main.py to train the model.
+* Finally, run model.py for testing your model.
 
-
-Run create_dataset.py for converting the video to images.
-Then run main.py to train the model.
-Finally, run model.py for testing your model.
 The Algorithm:
 Each video is a set of individual images that are time-dependent sequences. The algorithm - a hierarchical recurrent neural network - is able to treat each video as a time-dependent sequence, but still allow each video to be an independent data point.
 
@@ -24,7 +21,6 @@ Through this method, the HRNN incorporates a time-dependent aspect of the frames
 
 
 *VARIOUS TECHNOLOGIES USED IN THE PROJECT*
-
 
 1. DEEP LEARNING
 2. MACHINE LEARNING
@@ -139,3 +135,6 @@ Please try to follow the mentioned guidelines while before submitting your code 
  * While naming the layout files, ensure that the convention followed is (activity/fragment) _ (name).xml like ```activity_main.xml``` , ```fragment_user_location.xml``` .
  * * The activity/fragment file name corresponding to the layout files should be named as                       (activity/fragment name)(activity/fragment).java like ```UserLocationActivity.java``` corresponding to the layout file ```activity_user_location.xml``` , ```UserLocationFragment.java``` corresponding to the layout file ```fragment_user_location.xml``` .
  * Name the views and widgets defined in the layout files as (viewtype/widget) _ (name) _ (no. in the file if any) like  ```button_save``` , ```editText_user_location``` .
+
+### This Project is associated to 
+[<img src="https://crosswoc.ieeedtu.in/images/imgcw.png" width = "400px">](https://crosswoc.ieeedtu.in/)
