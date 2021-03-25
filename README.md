@@ -138,3 +138,12 @@ Please try to follow the mentioned guidelines while before submitting your code 
 
 ### This Project is associated to 
 [<img src="https://crosswoc.ieeedtu.in/images/imgcw.png" width = "400px">](https://crosswoc.ieeedtu.in/)
+
+## Project Maintainer 
+
+<table>
+  <tbody><tr>
+    <td align="center"><a href="https://github.com/unnati914"><img alt="" src="https://avatars.githubusercontent.com/u/69121168?s=400&u=adfcc6a4636b47497032e87a609cc003ec9c63c8&v=4" width="130px;"><br><sub><b>
+ Unnati </b></sub></a><br><a href="" title="Code">💻 </a></td></a></td>
+  </tr>
+</tbody></table>
