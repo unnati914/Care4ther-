@@ -136,6 +136,14 @@ Please try to follow the mentioned guidelines while before submitting your code 
  * * The activity/fragment file name corresponding to the layout files should be named as                       (activity/fragment name)(activity/fragment).java like ```UserLocationActivity.java``` corresponding to the layout file ```activity_user_location.xml``` , ```UserLocationFragment.java``` corresponding to the layout file ```fragment_user_location.xml``` .
  * Name the views and widgets defined in the layout files as (viewtype/widget) _ (name) _ (no. in the file if any) like  ```button_save``` , ```editText_user_location``` .
 
+##Additional Features 
+
+CCTV Camera pictures of accidents are being included in this. 
+
+##Features to be added
+
+Hospital Integration 
+New Datasets to be included in the model
 
 
 ## Project Maintainer 
