@@ -77,7 +77,6 @@ Happy Learning!
 |------------------------|-------------------------------------------------------------------|--------------------|
 | Predict accident       | Predict accident prone areas using ML model                       | :heavy_check_mark: | 
 | Home Screen            | Show User's location, SOS button, Show emergency contacts         | :x:                |
-|
 
 <br>
 
@@ -176,7 +175,7 @@ CCTV Camera pictures of accidents are being included in this.
 		<td align="center">
 			<a href="https://github.com/unnati914">
 				<img src="https://avatars.githubusercontent.com/u/69121168?s=400&u=adfcc6a4636b47497032e87a609cc003ec9c63c8&v=4" width="100px" alt="" />
-				<br /> <sub><b>Shubhangi Gupta</b></sub>
+				<br /> <sub><b>Unnati Chhabra</b></sub>
 			</a>
 			<br /> <a href="https://github.com/unnati914">
 		👑 Admin
