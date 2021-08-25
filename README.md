@@ -1,6 +1,24 @@
+<div align="center">
+
+![Care4ther-](https://socialify.git.ci/unnati914/Care4ther-/image?description=1&font=Inter&language=1&owner=1&pattern=Circuit%20Board&theme=Dark)
+
+![Issues](https://img.shields.io/github/issues/unnati914/Care4ther-)
+![Pull Requests](https://img.shields.io/github/issues-pr/unnati914/Care4ther-)
+![Forks](https://img.shields.io/github/forks/unnati914/Care4ther-)
+![Stars](https://img.shields.io/github/stars/unnati914/Care4ther-)
+![License](https://img.shields.io/github/license/unnati914/Care4ther-)
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
 # CARE4THER APP USING ML AND ANDROID 
 
 Nearly 80% of accidents take place in year. Our app is going to help the users detect an accident at its early stage using different libraries of Deep learning, etc.
+
+</div>
+
+<br>
 
 ## Code Requirements
 
@@ -20,7 +38,9 @@ The algorithm uses two layers of long short-term memory neural networks. The fir
 
 Through this method, the **HRNN** incorporates a time-dependent aspect of the frames within each video and predicts how likely it is that a new video contains a car accident.
 
-***VARIOUS TECHNOLOGIES USED IN THE PROJECT***
+<br>
+
+#### VARIOUS TECHNOLOGIES USED IN THE PROJECT
 
 1. DEEP LEARNING
 2. MACHINE LEARNING
@@ -28,13 +48,16 @@ Through this method, the **HRNN** incorporates a time-dependent aspect of the fr
 4. JAVA
 5. CNN
 
+<br>
 
-***Why this project is important***
+#### Why this project is important
 
 - To prevent accidents
 - To tell the location of the accident
 
-***FEATURES OF THE APP***
+<br>
+
+#### FEATURES OF THE APP
 
 The app is made using Java language. Various features are being added in the app such as alert system for an accident, sensors, etc.
 Try implementing this project and suggest changes:)
@@ -54,8 +77,9 @@ Happy Learning!
 |------------------------|-------------------------------------------------------------------|--------------------|
 | Predict accident       | Predict accident prone areas using ML model                       | :heavy_check_mark: | 
 | Home Screen            | Show User's location, SOS button, Show emergency contacts         | :x:                |
-|                        |                                                                   |                    |
+|
 
+<br>
 
 ## How to set up the Android app in your development environment
 
@@ -128,7 +152,7 @@ Despite any reason, follow the steps given below to squash all commits into one 
 `$ git push -f origin <branch-name>`
 
 
-### Code style
+## Code style
 
 Please try to follow the mentioned guidelines before submitting your code so that uniform code style is maintained in the project. It also makes it easier for the reviewer and other developers to understand.
 
@@ -145,12 +169,41 @@ CCTV Camera pictures of accidents are being included in this.
 - Hospital Integration 
 - New Datasets to be included in the model
 
-
-## Project Maintainer 
+## Project Maintainer
 
 <table>
-  <tbody><tr>
-    <td align="center"><a href="https://github.com/unnati914"><img alt="" src="https://avatars.githubusercontent.com/u/69121168?s=400&u=adfcc6a4636b47497032e87a609cc003ec9c63c8&v=4" width="130px;"><br><sub><b>
- Unnati </b></sub></a><br><a href="" title="Code">💻 </a></td></a></td>
-  </tr>
-</tbody></table>
+	<tr>
+		<td align="center">
+			<a href="https://github.com/unnati914">
+				<img src="https://avatars.githubusercontent.com/u/69121168?s=400&u=adfcc6a4636b47497032e87a609cc003ec9c63c8&v=4" width="100px" alt="" />
+				<br /> <sub><b>Shubhangi Gupta</b></sub>
+			</a>
+			<br /> <a href="https://github.com/unnati914">
+		👑 Admin
+	    </a>
+		</td>
+	</tr>
+</table>
+
+## 🌟 Contributors
+
+### Thanks goes to these wonderful people ✨✨:
+
+<table>
+	<tr>
+		<td>
+       <a href="https://github.com/unnati914/Care4ther-/graphs/contributors">
+       <img src="https://contrib.rocks/image?repo=unnati914/Care4ther-" />
+       </a>
+		</td>
+	</tr>
+</table>
+
+## License
+
+This project follows the [MIT License](https://github.com/unnati914/Care4ther-/blob/main/LICENSE).
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-by-codebabes.svg)](https://forthebadge.com)
