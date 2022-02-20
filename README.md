@@ -8,13 +8,10 @@
 ![Stars](https://img.shields.io/github/stars/unnati914/Care4ther-)
 ![License](https://img.shields.io/github/license/unnati914/Care4ther-)
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
-
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
 # CARE4THER APP USING ML AND ANDROID 
 
-Nearly 80% of accidents take place in year. Our app is going to help the users detect an accident at its early stage using different libraries of Deep learning, etc.
+Nearly 80% of accidents take place in year. Our app is going to help the users detect an accident and intimate hospitals that at this location accident has been done
 
 </div>
 
@@ -45,32 +42,32 @@ Through this method, the **HRNN** incorporates a time-dependent aspect of the fr
 1. DEEP LEARNING
 2. MACHINE LEARNING
 3. ANDROID
-4. JAVA
+4. Kotlin
 5. CNN
 
 <br>
 
 #### Why this project is important
 
-- To prevent accidents
+- To provide early medical aid
 - To tell the location of the accident
 
 <br>
 
 #### FEATURES OF THE APP
 
-The app is made using Java language. Various features are being added in the app such as alert system for an accident, sensors, etc.
+The app is made using Kotlin language. Various features are being added in the app such as alert system for an accident, sensors, etc.
 Try implementing this project and suggest changes:)
-Happy Learning!
+
 
 ## Roadmap
  - [X] Create an Android project
- - [ ] Integrate ML model into app.
- - [ ] Create an App Design.
+ - [ X] Integrate ML model into app.
+ - [X ] Create an App Design.
  - [ ] Add getUserlocation feature.
  - [ ] Add option to add/edit/view emergency contacts.
  - [ ] Fetch nearby hospital's information using Google Maps API.
- - [ ] Use hardware sensors to detect motion of vehicle.
+ - [X ] Use hardware sensors to detect motion of vehicle.
 
 ## Features
 |   **Feature**          | **Description**                                                   | **Status**         |
