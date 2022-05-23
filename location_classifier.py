@@ -34,8 +34,8 @@ def load_data(dir):
 			Y.append(count)
 		count += 1 
 	return np.array(X),np.array(Y)
-train_dir1 = "/home/Dell/Desktop/minor/car-damage-dataset/data2a/training"
-test_dir1 = "/home/Dell/Desktop/minor/car-damage-dataset/data2a/validation"
+train_dir1 = "/home/Dell/Desktop/minor/CADP-dataset/training"
+test_dir1 = "/home/Dell/Desktop/minor/CADP-dataset/validation"
 
 
 x_train,y_train = load_data(train_dir1)
