@@ -165,6 +165,13 @@ CCTV Camera pictures of accidents are being included in this.
 - Hospital Integration 
 - New Datasets to be included in the model
 
+
+## ScreenShot of Website
+![image](https://user-images.githubusercontent.com/69121168/169762925-ded39bc4-47d5-4f7a-8c2d-77762c84dd9a.png)
+![image](https://user-images.githubusercontent.com/69121168/169763241-e738a38e-e84b-4888-b525-51e5c7fc176d.png)
+
+
+
 ## Project Maintainer
 
 <table>
