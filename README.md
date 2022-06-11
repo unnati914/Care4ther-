@@ -62,12 +62,12 @@ Try implementing this project and suggest changes:)
 
 ## Roadmap
  - [X] Create an Android project
- - [ X] Integrate ML model into app.
- - [X ] Create an App Design.
+ - [X] Integrate ML model into app.
+ - [X] Create an App Design.
  - [ ] Add getUserlocation feature.
  - [ ] Add option to add/edit/view emergency contacts.
  - [ ] Fetch nearby hospital's information using Google Maps API.
- - [X ] Use hardware sensors to detect motion of vehicle.
+ - [X] Use hardware sensors to detect motion of vehicle.
 
 ## Features
 |   **Feature**          | **Description**                                                   | **Status**         |
@@ -167,9 +167,12 @@ CCTV Camera pictures of accidents are being included in this.
 
 
 ## ScreenShot of Website
-![image](https://user-images.githubusercontent.com/69121168/169762925-ded39bc4-47d5-4f7a-8c2d-77762c84dd9a.png)
-![image](https://user-images.githubusercontent.com/69121168/169763241-e738a38e-e84b-4888-b525-51e5c7fc176d.png)
 
+<details>
+  <summary>Click to Expand</summary>
+  <img src="https://user-images.githubusercontent.com/69121168/169762925-ded39bc4-47d5-4f7a-8c2d-77762c84dd9a.png"/>
+  <img src="https://user-images.githubusercontent.com/69121168/169763241-e738a38e-e84b-4888-b525-51e5c7fc176d.png"/>
+</details>
 
 
 ## Project Maintainer
