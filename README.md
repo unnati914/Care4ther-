@@ -158,7 +158,7 @@ Please try to follow the mentioned guidelines before submitting your code so tha
 
 ## Additional Features
 
-CCTV Camera pictures of accidents are being included in this. 
+CCTV Camera pictures of accidents are being included. 
 
 ## Features to be added
 
